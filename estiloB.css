@@ -38,7 +38,6 @@
 }
 
 .cuerpo{
-    background-color: blue;
     width: 900px;
     height: 400px;
 }
@@ -51,6 +50,7 @@
 }
 
 .cuerpo_barra{
+    margin-top: 0px;
     background-color: #bbc4bb; 
     height: 20px;    
 }
@@ -96,12 +96,9 @@
 .pie2{
     background-color: rgb(90, 137, 182);
     width: 900px;
-    height: 46px;
-    
+    height: 50px;
     border-bottom: 1.5px solid rgb(41, 47, 49);
 }
-
-
 
 .letra_roja{
     color: rgb(233, 52, 52);
