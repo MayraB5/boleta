@@ -116,3 +116,8 @@
 .verde{
     color: green;
 }
+
+.contenido {
+    height: 360px;
+    text-align: center;
+}
